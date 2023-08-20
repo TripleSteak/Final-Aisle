@@ -10,3 +10,5 @@ Welcome to **Final Aisle**, what was going to be the first step to a multiplayer
 - Real-time multiplayer movements, including jumping, rolling, and crouching;
 - An account registration and creation system accompanied by SMTP email verification; and
 - Some degree of quirky character customization!
+
+![final-aisle](https://github.com/TripleSteak/Final-Aisle/assets/24597462/e408f4a8-3fad-4e7c-8766-ebfa88f2674c)
